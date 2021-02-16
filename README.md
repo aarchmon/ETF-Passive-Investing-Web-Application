@@ -6,11 +6,26 @@
 
 ## Technologies
 
+[numpy]() - 
+
+[pandas]() - 
+
+[hvplot]() - 
+
+[sqlalchemy]() - 
+
 ---
 
 ## Installation Guide
 
 With your _Python 3.7+_ environment, run the following commands via CLI:
+
+```
+import numpy as np
+import pandas as pd
+import hvplot.pandas
+import sqlalchemy
+```
 
 ---
 
