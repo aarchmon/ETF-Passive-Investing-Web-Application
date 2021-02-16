@@ -1,6 +1,6 @@
 # ETF Passive Investing Web Application
 
-![San Francisco](./Images/stock_market.jpg)
+![ETF](./Images/stock_market.jpg)
 
 ---
 
