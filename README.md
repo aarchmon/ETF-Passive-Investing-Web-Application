@@ -6,13 +6,13 @@
 
 ## Technologies
 
-[numpy]() - 
+[numpy](https://numpy.org/) - Scientific computing module.
 
-[pandas]() - 
+[pandas](https://pandas.pydata.org/) - Data analysis module.
 
-[hvplot]() - 
+[hvplot](https://pypi.org/project/hvplot/) - Interactive plotting module.
 
-[sqlalchemy]() - 
+[sqlalchemy](https://www.sqlalchemy.org/) - Relational database module.
 
 ---
 
@@ -37,7 +37,7 @@ import sqlalchemy
 
 1. Clone repository onto your personal machine. 
 
-2. Open _Jupyter Lab_ or _Jupyter Notebook_ via _Anaconda Navigator_ and navigate to the directory in which the file `san_francisco_housing.ipynb` is present. _All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line_. Ensure that all relevant dependencies and _Python_ modules are installed (see __Technologies__ and __Installation Guide__ for more details) before attempting to execute code within _Jupyter Notebook_; otherwise, you will receive multiple interpreter errors! 
+2. Open _Jupyter Lab_ or _Jupyter Notebook_ via _Anaconda Navigator_ and navigate to the directory in which the file `etf_analyzer.ipynb` is present. _All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line_. Ensure that all relevant dependencies and _Python_ modules are installed (see __Technologies__ and __Installation Guide__ for more details) before attempting to execute code within _Jupyter Notebook_; otherwise, you will receive multiple interpreter errors! 
 
 3. With the notebook open, start at the very first cell reading "__Housing Rental Analysis for San Francisco__" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. _It is vital that all cells are ran in sequential order or your notebook will generate compiler errors_!. 
 
