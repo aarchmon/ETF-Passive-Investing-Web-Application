@@ -31,6 +31,8 @@ import sqlalchemy
 
 ## Examples
 
+![ETF Plot](./Images/etf_plot.png)
+
 ---
 
 ## Usage
